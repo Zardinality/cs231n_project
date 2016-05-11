@@ -1,0 +1,25 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+cifar-10-python.tar.gz.1
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+/cs231n/datasets/cifar-10-batches-py/
+batches.meta
+data_batch_1
+data_batch_2
+data_batch_3
+data_batch_4
+data_batch_5
+test_batch
+
+
+# My configurations:
+db.ini
+deploy_key_rsa

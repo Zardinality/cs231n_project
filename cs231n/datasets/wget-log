@@ -1,0 +1,8 @@
+--2016-04-10 23:19:10--  http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+Resolving www.cs.toronto.edu (www.cs.toronto.edu)... 128.100.3.30
+Connecting to www.cs.toronto.edu (www.cs.toronto.edu)|128.100.3.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170498071 (163M) [application/x-gzip]
+Saving to: ‘cifar-10-python.tar.gz’
+
+60% [======================>                ] 103,625,439  119KB/s  eta 19m 33s60% [======================>                ] 103,672,847  124KB/s  eta 19m 33s60% [======================>                ] 103,696,477  123KB/s  eta 19m 33s60% [======================>                ] 103,728,447  124KB/s  eta 19m 33s60% [======================>                ] 103,759,027  125KB/s  eta 19m 30s
