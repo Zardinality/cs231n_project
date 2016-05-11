@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this assignment you will practice writing backpropagation code, and training
 Neural Networks and Convolutional Neural Networks. The goals of this assignment
 are as follows:
@@ -126,3 +127,6 @@ ensemble of models, or anything else that comes to mind. If you implement these
 or other ideas not covered in the assignment then you will be awarded some bonus
 points.
 
+=======
+# cs231n_project
+>>>>>>> 84d2c0898ab0839ab8146fa95bbd85c9c71c3313
